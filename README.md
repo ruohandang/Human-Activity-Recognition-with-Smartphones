@@ -1,1 +1,3 @@
 # Human-Activity-Recognition-with-Smartphones
+Human Activity Recognition (HAR) is the problem of identifying a physical activity carried out by an individual dependent on a trace of movement within a certain environment. Smartphones results in behemoth amount of data being collected including motion, location, physiological signals and environmental information. 
+As stated above, this paper addresses the HAR problem. With the availability of data, analyses can be done to better recognize, classify, cluster and predict what human activities are carried out (e.g. stand, sit, lie, walk) for further decision making.
